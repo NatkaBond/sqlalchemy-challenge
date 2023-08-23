@@ -36,6 +36,7 @@ You’ll need to use the func.count function in your query.
 3. Design a query that calculates the lowest, highest, and average temperatures that filters on the most-active station id found in the previous query.
 ### HINT
 You’ll need to use functions such as func.min, func.max, and func.avg in your query.
+
 4. Design a query to get the previous 12 months of temperature observation (TOBS) data. To do so, complete the following steps:
 - Filter by the station that has the greatest number of observations.
 - Query the previous 12 months of TOBS data for that station.
